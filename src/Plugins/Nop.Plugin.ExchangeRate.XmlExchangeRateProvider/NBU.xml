@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exchange>
+  <currency>
+    <r030>36</r030>
+    <txt>Австралійський долар</txt>
+    <rate>19.28349</rate>
+    <cc>AUD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>124</r030>
+    <txt>Канадський долар</txt>
+    <rate>20.403996</rate>
+    <cc>CAD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>156</r030>
+    <txt>Юань Женьмiньбi</txt>
+    <rate>4.029465</rate>
+    <cc>CNY</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>191</r030>
+    <txt>Куна</txt>
+    <rate>4.127225</rate>
+    <cc>HRK</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>203</r030>
+    <txt>Чеська крона</txt>
+    <rate>1.19452</rate>
+    <cc>CZK</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>208</r030>
+    <txt>Данська крона</txt>
+    <rate>4.108363</rate>
+    <cc>DKK</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>344</r030>
+    <txt>Гонконгівський долар</txt>
+    <rate>3.437503</rate>
+    <cc>HKD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>348</r030>
+    <txt>Форинт</txt>
+    <rate>0.0966851</rate>
+    <cc>HUF</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>356</r030>
+    <txt>Індійська рупія</txt>
+    <rate>0.3791444</rate>
+    <cc>INR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>360</r030>
+    <txt>Рупія</txt>
+    <rate>0.00192582</rate>
+    <cc>IDR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>364</r030>
+    <txt>Іранський ріал</txt>
+    <rate>0.0006424</rate>
+    <cc>IRR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>376</r030>
+    <txt>Новий ізраїльський шекель</txt>
+    <rate>7.449928</rate>
+    <cc>ILS</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>392</r030>
+    <txt>Єна</txt>
+    <rate>0.2434286</rate>
+    <cc>JPY</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>398</r030>
+    <txt>Теньге</txt>
+    <rate>0.071375</rate>
+    <cc>KZT</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>410</r030>
+    <txt>Вона</txt>
+    <rate>0.0241378</rate>
+    <cc>KRW</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>484</r030>
+    <txt>Мексіканський песо</txt>
+    <rate>1.411728</rate>
+    <cc>MXN</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>498</r030>
+    <txt>Молдовський лей</txt>
+    <rate>1.573542</rate>
+    <cc>MDL</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>554</r030>
+    <txt>Новозеландський долар</txt>
+    <rate>18.556273</rate>
+    <cc>NZD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>578</r030>
+    <txt>Норвезька крона</txt>
+    <rate>3.13686</rate>
+    <cc>NOK</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>643</r030>
+    <txt>Російський рубль</txt>
+    <rate>0.41121</rate>
+    <cc>RUB</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>682</r030>
+    <txt>Саудівський рiял</txt>
+    <rate>7.195367</rate>
+    <cc>SAR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>702</r030>
+    <txt>Сінгапурський долар</txt>
+    <rate>19.994106</rate>
+    <cc>SGD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>710</r030>
+    <txt>Ренд</txt>
+    <rate>1.9461</rate>
+    <cc>ZAR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>752</r030>
+    <txt>Шведська крона</txt>
+    <rate>2.895857</rate>
+    <cc>SEK</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>756</r030>
+    <txt>Швейцарський франк</txt>
+    <rate>26.958899</rate>
+    <cc>CHF</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>818</r030>
+    <txt>Єгипетський фунт</txt>
+    <rate>1.545016</rate>
+    <cc>EGP</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>826</r030>
+    <txt>Фунт стерлінгів</txt>
+    <rate>35.622525</rate>
+    <cc>GBP</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>840</r030>
+    <txt>Долар США</txt>
+    <rate>26.982628</rate>
+    <cc>USD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>933</r030>
+    <txt>Бiлоруський рубль</txt>
+    <rate>12.61814</rate>
+    <cc>BYN</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>944</r030>
+    <txt>Азербайджанський манат</txt>
+    <rate>15.872134</rate>
+    <cc>AZN</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>946</r030>
+    <txt>Румунський лей</txt>
+    <rate>6.436603</rate>
+    <cc>RON</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>949</r030>
+    <txt>Турецька ліра</txt>
+    <rate>5.087623</rate>
+    <cc>TRY</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>960</r030>
+    <txt>СПЗ(спеціальні права запозичення)</txt>
+    <rate>37.637819</rate>
+    <cc>XDR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>975</r030>
+    <txt>Болгарський лев</txt>
+    <rate>15.673874</rate>
+    <cc>BGN</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>978</r030>
+    <txt>Євро</txt>
+    <rate>30.654964</rate>
+    <cc>EUR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>985</r030>
+    <txt>Злотий</txt>
+    <rate>7.082613</rate>
+    <cc>PLN</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>12</r030>
+    <txt>Алжирський динар</txt>
+    <rate>0.234946</rate>
+    <cc>DZD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>50</r030>
+    <txt>Така</txt>
+    <rate>0.331909</rate>
+    <cc>BDT</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>51</r030>
+    <txt>Вiрменський драм</txt>
+    <rate>0.0569653</rate>
+    <cc>AMD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>368</r030>
+    <txt>Іракський динар</txt>
+    <rate>0.023382</rate>
+    <cc>IQD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>417</r030>
+    <txt>Сом</txt>
+    <rate>0.397276</rate>
+    <cc>KGS</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>422</r030>
+    <txt>Ліванський фунт</txt>
+    <rate>0.018424</rate>
+    <cc>LBP</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>434</r030>
+    <txt>Лівійський динар</txt>
+    <rate>20.1211</rate>
+    <cc>LYD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>458</r030>
+    <txt>Малайзійський ринггіт</txt>
+    <rate>6.782331</rate>
+    <cc>MYR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>504</r030>
+    <txt>Марокканський дирхам</txt>
+    <rate>2.920716</rate>
+    <cc>MAD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>586</r030>
+    <txt>Пакистанська рупія</txt>
+    <rate>0.200339</rate>
+    <cc>PKR</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>704</r030>
+    <txt>Донг</txt>
+    <rate>0.00119558</rate>
+    <cc>VND</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>764</r030>
+    <txt>Бат</txt>
+    <rate>0.888131</rate>
+    <cc>THB</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>784</r030>
+    <txt>Дирхам ОАЕ</txt>
+    <rate>7.553082</rate>
+    <cc>AED</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>788</r030>
+    <txt>Туніський динар</txt>
+    <rate>9.198541</rate>
+    <cc>TND</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>860</r030>
+    <txt>Узбецький сум</txt>
+    <rate>0.003308</rate>
+    <cc>UZS</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>901</r030>
+    <txt>Новий тайванський долар</txt>
+    <rate>0.903261</rate>
+    <cc>TWD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>934</r030>
+    <txt>Туркменський новий манат</txt>
+    <rate>7.925989</rate>
+    <cc>TMT</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>936</r030>
+    <txt>Ганських седі</txt>
+    <rate>5.633025</rate>
+    <cc>GHS</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>941</r030>
+    <txt>Сербський динар</txt>
+    <rate>0.269565</rate>
+    <cc>RSD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>972</r030>
+    <txt>Сомонi</txt>
+    <rate>2.939159</rate>
+    <cc>TJS</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>981</r030>
+    <txt>Ларi</txt>
+    <rate>10.449753</rate>
+    <cc>GEL</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>959</r030>
+    <txt>Золото</txt>
+    <rate>35820.788</rate>
+    <cc>XAU</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>961</r030>
+    <txt>Срiбло</txt>
+    <rate>430.508</rate>
+    <cc>XAG</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>962</r030>
+    <txt>Платина</txt>
+    <rate>23016.182</rate>
+    <cc>XPT</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+  <currency>
+    <r030>964</r030>
+    <txt>Паладiй</txt>
+    <rate>41229.456</rate>
+    <cc>XPD</cc>
+    <exchangedate>27.02.2019</exchangedate>
+</currency>
+</exchange>

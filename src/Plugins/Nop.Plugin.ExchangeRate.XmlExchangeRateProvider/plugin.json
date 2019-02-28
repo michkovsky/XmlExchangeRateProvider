@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Exchange rate providers",
+  "FriendlyName": "Xml API exchange rate provider",
+  "SystemName": "ExchangeRate.XmlExchangeRateProvider",
+  "Version": "1.01",
+  "SupportedVersions": [ "4.10" ],
+  "Author": "Serhii Michkovskyi",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.ExchangeRate.XmlExchangeRateProvider.dll",
+  "Description": "This plugin allows getting exchange rates from public trusted (and not) api service providers (National Bank of Ukraine, European Central Bank)"
+}
